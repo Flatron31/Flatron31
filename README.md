@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
 <div id="header" align="center">
-  ### Hi there 👋
+  Hi there 👋
 </div>
 
 <!--
