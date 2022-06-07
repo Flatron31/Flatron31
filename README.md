@@ -6,8 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-  Hi there 👋
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Flatron31&style=flat-square&color=blue" alt=""/>
+  <h2>Hi there 👋</h2>
 </div>
 
 <!--
